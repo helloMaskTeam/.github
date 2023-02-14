@@ -30,3 +30,7 @@ Yes, I will be 4th member to get paid after we have other 3 members paid for the
 
 ## So are you going to start profit-making company?
 Yes, by helping indie hackers and startups we hope to get generous ROI from those who gets success. We will be open indie hacker startup 
+
+## Have any suggestions/questions?
+Please write on the discussion https://github.com/orgs/helloMaskTeam/discussions and You are invited to [discord](https://discord.gg/S6xUqBj2E4)
+
